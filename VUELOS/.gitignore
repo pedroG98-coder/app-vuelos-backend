@@ -1,0 +1,4 @@
+.venv/
+.prueba_venv/
+.venv_prueba/
+*.pyc
